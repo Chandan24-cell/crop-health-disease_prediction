@@ -1,0 +1,43 @@
+{
+  "name": "Fieldnote Crop Health",
+  "short_name": "Fieldnote",
+  "description": "On-device and cloud-assisted crop leaf diagnostics, disease surveillance, and agronomic management planner.",
+  "start_url": "/#/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f7faf7",
+  "theme_color": "#1b4332",
+  "categories": ["agriculture", "productivity", "utilities"],
+  "shortcuts": [
+    {
+      "name": "Scan a Leaf",
+      "short_name": "Scan",
+      "description": "Quickly capture and analyze a crop leaf",
+      "url": "/#/scan",
+      "icons": [{ "src": "/favicon.svg", "sizes": "any" }]
+    },
+    {
+      "name": "Outbreak Map",
+      "short_name": "Map",
+      "description": "View regional disease outbreaks and alerts",
+      "url": "/#/map",
+      "icons": [{ "src": "/favicon.svg", "sizes": "any" }]
+    },
+    {
+      "name": "Treatment Planner",
+      "short_name": "Treat",
+      "description": "View spray schedule, safety intervals, and PPE",
+      "url": "/#/treatment",
+      "icons": [{ "src": "/favicon.svg", "sizes": "any" }]
+    }
+  ],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

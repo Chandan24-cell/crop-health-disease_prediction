@@ -1,0 +1,20 @@
+{
+  "name": "fieldnote-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "lint": "eslint js",
+    "format:check": "prettier --check index.html styleguide.html css js service-worker.js manifest.webmanifest",
+    "format": "prettier --write index.html styleguide.html css js service-worker.js manifest.webmanifest",
+    "test:e2e": "playwright test"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.13.0",
+    "@eslint/js": "^9.25.0",
+    "@playwright/test": "^1.63.0",
+    "eslint": "^9.25.0",
+    "globals": "^16.0.0",
+    "prettier": "^3.5.3"
+  }
+}

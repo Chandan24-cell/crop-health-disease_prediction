@@ -1,0 +1,5 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="80" height="80" aria-hidden="true" focusable="false">
+  <ns0:path d="M40 14l20 7v17c0 13-8.5 22-20 28-11.5-6-20-15-20-28V21z" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+  <ns0:rect x="32" y="38" width="16" height="12" rx="3" fill="currentColor" />
+  <ns0:path d="M35 38v-4a5 5 0 0 1 10 0v4" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+</ns0:svg>

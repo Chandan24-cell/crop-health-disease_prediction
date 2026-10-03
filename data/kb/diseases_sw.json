@@ -1,0 +1,122 @@
+{
+  "Maize_Common_rust": {
+    "crop": "Mahindi",
+    "cause": "Kuvu (Puccinia sorghi)",
+    "symptoms": "Vipele vidogo, vya mviringo au virefu vya rangi ya kahawia-nyekundu kwenye nyuso zote za majani.",
+    "immediate_actions": "Ondoa na uangamize majani ya chini yaliyoambukizwa sana.",
+    "cultural_controls": "Panda mbegu zinazostahimili. Badilisha mazao na yasiyo mwenyeji.",
+    "prevention": "Hakikisha rutuba ya udongo iliyosawazishwa. Epuka kupanda kwa kuchelewa.",
+    "when_to_seek_expert": "Ikiwa vipele vitaenea haraka kwenye majani ya juu.",
+    "safety_note": "Vaa mavazi ya kinga daima unapopulizia dawa. Weka mbali na vyanzo vya maji.",
+    "severity_advice": {
+      "mild": "Fuatilia kwa karibu. Hakuna matibabu ya kemikali yanayohitajika bado.",
+      "moderate": "Verify any pesticide use against the current CIB&RC label; ask your State Agriculture Department or local KVK for advice.",
+      "severe": "Ask your State Agriculture Department or KVK for advice and verify pesticide use against the current CIB&RC label."
+    }
+  },
+  "Maize_Gray_leaf_spot": {
+    "crop": "Mahindi",
+    "cause": "Kuvu (Cercospora zeae-maydis)",
+    "symptoms": "Vidonda vya mstatili, vya kijivu au hudhurungi vinavyopakana na mishipa ya majani.",
+    "immediate_actions": "Safisha mabaki ya mazao baada ya mavuno.",
+    "cultural_controls": "Tumia mbegu zilizoidhinishwa na kubadilisha mazao.",
+    "prevention": "Hakikisha nafasi ya kutosha kati ya mimea kwa mzunguko wa hewa.",
+    "when_to_seek_expert": "Ikiwa vidonda vitafikia jani la bapa kabla ya nafaka kujaa.",
+    "safety_note": "Vaa mavazi ya kinga daima wakati wa kupulizia dawa.",
+    "severity_advice": {
+      "mild": "Fuatilia kwa makini.",
+      "moderate": "Wasiliana na mwongozo wa afisa ugani wa eneo lako.",
+      "severe": "Wasiliana na afisa ugani wa kilimo."
+    }
+  },
+  "Maize_Northern_Leaf_Blight": {
+    "crop": "Mahindi",
+    "cause": "Kuvu (Exserohilum turcicum)",
+    "symptoms": "Vidonda virefu vyenye umbo la sigara au duara vya kijivu-kijani.",
+    "immediate_actions": "Kagua mashamba kila wiki wakati wa hali ya hewa ya joto na unyevu.",
+    "cultural_controls": "Badilisha mazao na maharagwe au kunde. Tumia mbegu chotara zinazostahimili.",
+    "prevention": "Epuka umwagiliaji wa juu ikiwezekana.",
+    "when_to_seek_expert": "Ikiwa vidonda vinaonekana kwenye majani 3 ya juu wakati wa kutoa mbelewele.",
+    "safety_note": "Vaa mavazi ya kinga daima wakati wa kupulizia dawa.",
+    "severity_advice": {
+      "mild": "Fuatilia kwa makini.",
+      "moderate": "Wasiliana na mwongozo wa afisa ugani wa eneo lako.",
+      "severe": "Wasiliana na afisa ugani wa kilimo."
+    }
+  },
+  "Potato_Early_blight": {
+    "crop": "Viazi",
+    "cause": "Kuvu (Alternaria solani)",
+    "symptoms": "Madoa ya kahawia meusi yenye pete za duara.",
+    "immediate_actions": "Ondoa na uangamize majani yaliyoambukizwa.",
+    "cultural_controls": "Dumisha rutuba ya udongo na ubadilishe mazao.",
+    "prevention": "Tumia mbegu za viazi zilizoidhinishwa na safi.",
+    "when_to_seek_expert": "Ikiwa vidonda vya shina au kuoza kwa kiazi kunaonekana.",
+    "safety_note": "Vaa mavazi ya kinga daima wakati wa kupulizia dawa.",
+    "severity_advice": {
+      "mild": "Boresha mzunguko wa hewa.",
+      "moderate": "Wasiliana na mwongozo wa afisa ugani wa eneo lako.",
+      "severe": "Wasiliana na afisa ugani wa kilimo."
+    }
+  },
+  "Potato_Late_blight": {
+    "crop": "Viazi",
+    "cause": "Oomycete (Phytophthora infestans)",
+    "symptoms": "Madoa ya kijani kibichi yenye majimaji yanayogeuka kuwa meusi-zambarau.",
+    "immediate_actions": "Angamiza marundo ya viazi vilivyotupwa na mimea ya kujitokeza.",
+    "cultural_controls": "Panda aina zinazostahimili na hakikisha mfereji mzuri wa maji.",
+    "prevention": "Epuka kumwagilia wakati wa jioni.",
+    "when_to_seek_expert": "Mara tu unapoona kidonda cha kwanza chenye majimaji.",
+    "safety_note": "Vaa mavazi ya kinga daima wakati wa kupulizia dawa.",
+    "severity_advice": {
+      "mild": "Fuatilia na utafute mwongozo wa eneo lako.",
+      "moderate": "Wasiliana na afisa ugani mara moja.",
+      "severe": "Tafuta ushauri wa dharura wa ugani wa kilimo."
+    }
+  },
+  "Tomato_Early_blight": {
+    "crop": "Nyanya",
+    "cause": "Kuvu (Alternaria linariae)",
+    "symptoms": "Madoa madogo meusi yenye pete za duara kwenye majani ya zamani.",
+    "immediate_actions": "Katia na uondoe majani ya chini yaliyoambukizwa.",
+    "cultural_controls": "Shikilia mimea kwa miti na weka matandazo kuzuia maji kuruka kutoka udongoni.",
+    "prevention": "Badilisha mazao yasiyo ya jamii ya nyanya.",
+    "when_to_seek_expert": "Ikiwa madoa yatafikia matunda.",
+    "safety_note": "Vaa mavazi ya kinga daima wakati wa kupulizia dawa.",
+    "severity_advice": {
+      "mild": "Katia majani yaliyoathiriwa.",
+      "moderate": "Wasiliana na mwongozo wa afisa ugani wa eneo lako.",
+      "severe": "Wasiliana na afisa ugani wa kilimo."
+    }
+  },
+  "Tomato_Late_blight": {
+    "crop": "Nyanya",
+    "cause": "Oomycete (Phytophthora infestans)",
+    "symptoms": "Madoa makubwa ya kijivu-kijani yenye majimaji na yasiyo na mpangilio maalum.",
+    "immediate_actions": "Angamiza mimea iliyoambukizwa; usiiweke kwenye mboji.",
+    "cultural_controls": "Epuka kumwagilia juu ya majani na weka nafasi sahihi kati ya mimea.",
+    "prevention": "Tumia miche isiyo na magonjwa.",
+    "when_to_seek_expert": "Mara moja; ugonjwa huu unaweza kuenea haraka sana.",
+    "safety_note": "Vaa mavazi ya kinga daima wakati wa kupulizia dawa.",
+    "severity_advice": {
+      "mild": "Tafuta mwongozo wa ugani wa eneo lako.",
+      "moderate": "Wasiliana na afisa ugani wa kilimo.",
+      "severe": "Tafuta ushauri wa dharura wa ugani."
+    }
+  },
+  "Tomato_Leaf_Mold": {
+    "crop": "Nyanya",
+    "cause": "Kuvu (Passalora fulva)",
+    "symptoms": "Madoa ya manjano juu na ukungu wa kijani-mzeituni chini ya majani.",
+    "immediate_actions": "Boresha uingizaji hewa chafu na hewa safi.",
+    "cultural_controls": "Tumia umwagiliaji wa matone na usafishe vifaa vya kazi.",
+    "prevention": "Panda mbegu zinazostahimili magonjwa.",
+    "when_to_seek_expert": "Ikiwa ukungu unafunika zaidi ya 20% ya jani.",
+    "safety_note": "Vaa mavazi ya kinga daima wakati wa kupulizia dawa.",
+    "severity_advice": {
+      "mild": "Punguza unyevu hewani.",
+      "moderate": "Wasiliana na mwongozo wa afisa ugani wa eneo lako.",
+      "severe": "Wasiliana na afisa ugani wa kilimo."
+    }
+  }
+}

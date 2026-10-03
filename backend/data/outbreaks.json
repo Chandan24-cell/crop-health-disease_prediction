@@ -1,0 +1,118 @@
+[
+  {
+    "id": "sample-1",
+    "disease": "Tomato_Early_blight",
+    "crop": "Tomato",
+    "lat": 19.08,
+    "lng": 72.88,
+    "intensity": 0.8,
+    "timestamp": "2026-10-01T09:00:00Z",
+    "severity": "Moderate",
+    "sample": true,
+    "state": "Maharashtra"
+  },
+  {
+    "id": "sample-2",
+    "disease": "Maize_Common_rust",
+    "crop": "Maize",
+    "lat": 12.97,
+    "lng": 77.59,
+    "intensity": 0.74,
+    "timestamp": "2026-10-02T09:00:00Z",
+    "severity": "Mild",
+    "sample": true,
+    "state": "Karnataka"
+  },
+  {
+    "id": "sample-3",
+    "disease": "Potato_Late_blight",
+    "crop": "Potato",
+    "lat": 26.85,
+    "lng": 80.95,
+    "intensity": 0.88,
+    "timestamp": "2026-10-03T09:00:00Z",
+    "severity": "Severe",
+    "sample": true,
+    "state": "Uttar Pradesh"
+  },
+  {
+    "id": "sample-4",
+    "disease": "Tomato_Late_blight",
+    "crop": "Tomato",
+    "lat": 22.57,
+    "lng": 88.36,
+    "intensity": 0.81,
+    "timestamp": "2026-10-04T09:00:00Z",
+    "severity": "Moderate",
+    "sample": true,
+    "state": "West Bengal"
+  },
+  {
+    "id": "sample-5",
+    "disease": "Maize_Northern_Leaf_Blight",
+    "crop": "Maize",
+    "lat": 17.39,
+    "lng": 78.49,
+    "intensity": 0.79,
+    "timestamp": "2026-10-05T09:00:00Z",
+    "severity": "Moderate",
+    "sample": true,
+    "state": "Telangana"
+  },
+  {
+    "id": "sample-6",
+    "disease": "Potato_Early_blight",
+    "crop": "Potato",
+    "lat": 28.61,
+    "lng": 77.21,
+    "intensity": 0.69,
+    "timestamp": "2026-10-06T09:00:00Z",
+    "severity": "Mild",
+    "sample": true,
+    "state": "Delhi"
+  },
+  {
+    "id": "out-2aedd6f8",
+    "disease": "Tomato_Early_blight",
+    "crop": "Tomato",
+    "lat": -0.28,
+    "lng": 36.06,
+    "intensity": 0.88,
+    "timestamp": "2026-10-03T04:37:30.284281+00:00",
+    "severity": "Moderate",
+    "sample": false
+  },
+  {
+    "id": "out-c4fe2be9",
+    "disease": "Tomato_Early_blight",
+    "crop": "Tomato",
+    "lat": -0.28,
+    "lng": 36.06,
+    "intensity": 0.88,
+    "timestamp": "2026-10-03T04:39:17.639203+00:00",
+    "severity": "Moderate",
+    "sample": false
+  },
+  {
+    "id": "out-58c9014d",
+    "disease": "Tomato_Early_blight",
+    "crop": "Tomato",
+    "lat": -0.28,
+    "lng": 36.06,
+    "intensity": 0.88,
+    "timestamp": "2026-10-03T04:41:20.635854+00:00",
+    "severity": "Moderate",
+    "sample": false
+  },
+  {
+    "id": "out-849af99e",
+    "disease": "Tomato_Early_blight",
+    "crop": "Tomato",
+    "lat": -0.28,
+    "lng": 36.06,
+    "intensity": 0.88,
+    "timestamp": "2026-10-03T04:47:41.719951+00:00",
+    "severity": "Moderate",
+    "sample": false
+  }
+]

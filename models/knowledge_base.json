@@ -1,0 +1,122 @@
+{
+  "Maize_Common_rust": {
+    "crop": "Maize",
+    "cause": "Fungus (Puccinia sorghi)",
+    "symptoms": "Small, circular to elongated reddish-brown pustules on both leaf surfaces.",
+    "immediate_actions": "Remove and destroy heavily infected lower leaves.",
+    "cultural_controls": "Plant resistant varieties. Practice crop rotation with non-host crops.",
+    "prevention": "Ensure balanced soil fertility. Avoid late planting.",
+    "when_to_seek_expert": "If pustules spread rapidly to the upper canopy.",
+    "safety_note": "ALWAYS wear protective gear when spraying. Keep away from water sources.",
+    "severity_advice": {
+      "mild": "Monitor closely. No chemical treatment needed yet.",
+      "moderate": "Verify any pesticide use against the current CIB&RC label; seek advice from your State Agriculture Department or KVK.",
+      "severe": "Do not select a pesticide from this guide. Verify current CIB&RC labels and consult your State Agriculture Department or KVK."
+    }
+  },
+  "Maize_Gray_leaf_spot": {
+    "crop": "Maize",
+    "cause": "Fungus (Cercospora zeae-maydis)",
+    "symptoms": "Rectangular, gray to tan lesions bounded by leaf veins.",
+    "immediate_actions": "Clear crop debris after harvest to reduce spore carryover.",
+    "cultural_controls": "Use certified disease-free seeds. Plow down infected stubble.",
+    "prevention": "Ensure adequate plant spacing for air circulation.",
+    "when_to_seek_expert": "If lesions reach the ear leaf before grain fill.",
+    "safety_note": "ALWAYS wear protective gear when spraying. Keep away from water sources.",
+    "severity_advice": {
+      "mild": "Monitor weather. Fungicide only if wet weather persists.",
+      "moderate": "Verify any pesticide use against the current CIB&RC label; seek advice from your State Agriculture Department or KVK.",
+      "severe": "Do not select a pesticide from this guide. Verify current CIB&RC labels and consult your State Agriculture Department or KVK."
+    }
+  },
+  "Maize_Northern_Leaf_Blight": {
+    "crop": "Maize",
+    "cause": "Fungus (Exserohilum turcicum)",
+    "symptoms": "Long, elliptical or cigar-shaped gray-green lesions.",
+    "immediate_actions": "Scout fields weekly during warm, humid weather.",
+    "cultural_controls": "Rotate with beans or cowpeas. Use resistant hybrids.",
+    "prevention": "Avoid overhead irrigation if possible.",
+    "when_to_seek_expert": "If lesions appear on the top 3 leaves during silking.",
+    "safety_note": "ALWAYS wear protective gear when spraying. Keep away from water sources.",
+    "severity_advice": {
+      "mild": "Monitor closely. No chemical treatment needed yet.",
+      "moderate": "Verify any pesticide use against the current CIB&RC label; seek advice from your State Agriculture Department or KVK.",
+      "severe": "Do not select a pesticide from this guide. Verify current CIB&RC labels and consult your State Agriculture Department or KVK."
+    }
+  },
+  "Potato_Early_blight": {
+    "crop": "Potato",
+    "cause": "Fungus (Alternaria solani)",
+    "symptoms": "Dark brown spots with concentric rings (target board appearance).",
+    "immediate_actions": "Remove and destroy infected leaves immediately.",
+    "cultural_controls": "Ensure adequate potassium fertilization. Rotate crops for 2-3 years.",
+    "prevention": "Use certified seed potatoes. Hill up soil around plants.",
+    "when_to_seek_expert": "If stem lesions or tuber rot is observed.",
+    "safety_note": "ALWAYS wear protective gear when spraying. Keep away from water sources.",
+    "severity_advice": {
+      "mild": "Monitor closely. Improve air circulation.",
+      "moderate": "Verify any pesticide use against the current CIB&RC label; seek advice from your State Agriculture Department or KVK.",
+      "severe": "Do not select a pesticide from this guide. Verify current CIB&RC labels and consult your State Agriculture Department or KVK."
+    }
+  },
+  "Potato_Late_blight": {
+    "crop": "Potato",
+    "cause": "Oomycete (Phytophthora infestans)",
+    "symptoms": "Water-soaked pale green spots that turn purplish-black. White mold under leaves.",
+    "immediate_actions": "Destroy all cull piles and volunteer potato plants.",
+    "cultural_controls": "Plant resistant varieties. Ensure good drainage.",
+    "prevention": "Do not irrigate in the evening. Harvest when tubers are mature.",
+    "when_to_seek_expert": "Immediately upon seeing the first water-soaked lesion.",
+    "safety_note": "ALWAYS wear protective gear when spraying. Keep away from water sources.",
+    "severity_advice": {
+      "mild": "Apply protectant fungicide before rain.",
+      "moderate": "Verify any pesticide use against the current CIB&RC label; seek advice from your State Agriculture Department or KVK.",
+      "severe": "Ask your State Agriculture Department or KVK for urgent advice; verify all pesticide use against the current CIB&RC label."
+    }
+  },
+  "Tomato_Early_blight": {
+    "crop": "Tomato",
+    "cause": "Fungus (Alternaria linariae)",
+    "symptoms": "Small dark spots with concentric rings on older, lower leaves.",
+    "immediate_actions": "Prune and remove infected lower leaves.",
+    "cultural_controls": "Stake plants for airflow. Mulch to prevent soil splashing.",
+    "prevention": "Rotate with non-solanaceous crops for 3 years.",
+    "when_to_seek_expert": "If spots move up the stem or reach the fruit.",
+    "safety_note": "ALWAYS wear protective gear when spraying. Keep away from water sources.",
+    "severity_advice": {
+      "mild": "Prune affected leaves. Improve airflow.",
+      "moderate": "Verify any pesticide use against the current CIB&RC label; seek advice from your State Agriculture Department or KVK.",
+      "severe": "Do not select a pesticide from this guide. Verify current CIB&RC labels and consult your State Agriculture Department or KVK."
+    }
+  },
+  "Tomato_Late_blight": {
+    "crop": "Tomato",
+    "cause": "Oomycete (Phytophthora infestans)",
+    "symptoms": "Large, irregular, greasy gray-green spots. Rapid plant death.",
+    "immediate_actions": "Destroy infected plants immediately. Do not compost.",
+    "cultural_controls": "Avoid overhead watering. Space plants widely.",
+    "prevention": "Plant in raised beds. Use certified disease-free transplants.",
+    "when_to_seek_expert": "Immediately. This disease destroys crops in days.",
+    "safety_note": "ALWAYS wear protective gear when spraying. Keep away from water sources.",
+    "severity_advice": {
+      "mild": "Apply protectant fungicide immediately.",
+      "moderate": "Verify any pesticide use against the current CIB&RC label; seek advice from your State Agriculture Department or KVK.",
+      "severe": "Ask your State Agriculture Department or KVK for urgent advice; verify all pesticide use against the current CIB&RC label."
+    }
+  },
+  "Tomato_Leaf_Mold": {
+    "crop": "Tomato",
+    "cause": "Fungus (Passalora fulva)",
+    "symptoms": "Yellow spots on upper leaf surface. Olive-green fuzzy mold underneath.",
+    "immediate_actions": "Improve greenhouse ventilation immediately.",
+    "cultural_controls": "Use drip irrigation. Avoid working among wet plants.",
+    "prevention": "Use resistant tomato varieties. Sanitize tools.",
+    "when_to_seek_expert": "If mold covers more than 20% of the leaf area.",
+    "safety_note": "ALWAYS wear protective gear when spraying. Keep away from water sources.",
+    "severity_advice": {
+      "mild": "Reduce humidity. Remove lower infected leaves.",
+      "moderate": "Verify any pesticide use against the current CIB&RC label; seek advice from your State Agriculture Department or KVK.",
+      "severe": "Do not select a pesticide from this guide. Verify current CIB&RC labels and consult your State Agriculture Department or KVK."
+    }
+  }
+}

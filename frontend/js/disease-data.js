@@ -1,0 +1,68 @@
+export const diseaseData = [
+  {
+    id: "Maize_Common_rust",
+    crop: "Maize",
+    name: "Common rust",
+    symptoms: "Small, round to elongated reddish-brown pustules may appear on both leaf surfaces.",
+    prevention: "Use locally recommended resistant varieties, rotate crops, and scout plants regularly.",
+    actions:
+      "Remove heavily affected leaves where practical and ask a local adviser if pustules spread quickly.",
+  },
+  {
+    id: "Maize_Gray_leaf_spot",
+    crop: "Maize",
+    name: "Gray leaf spot",
+    symptoms: "Long, rectangular gray or tan lesions often bounded by leaf veins.",
+    prevention: "Use tolerant varieties, rotate crops, manage crop residue, and allow good air movement.",
+    actions: "Check several leaves across the field; symptoms can resemble other leaf blights.",
+  },
+  {
+    id: "Maize_Northern_Leaf_Blight",
+    crop: "Maize",
+    name: "Northern leaf blight",
+    symptoms: "Long, elliptical or cigar-shaped gray-green lesions that can expand along the leaf.",
+    prevention: "Plant locally adapted tolerant hybrids and rotate with non-host crops.",
+    actions: "Track whether lesions reach upper leaves and seek local extension advice.",
+  },
+  {
+    id: "Potato_Early_blight",
+    crop: "Potato",
+    name: "Early blight",
+    symptoms: "Dark brown spots, sometimes with concentric rings, often first on older leaves.",
+    prevention: "Use healthy seed, rotate crops, remove volunteer plants, and avoid prolonged leaf wetness.",
+    actions: "Remove badly affected foliage when appropriate and keep plants well nourished.",
+  },
+  {
+    id: "Potato_Late_blight",
+    crop: "Potato",
+    name: "Late blight",
+    symptoms: "Water-soaked pale lesions can become dark; white growth may appear in humid conditions.",
+    prevention: "Use clean seed, monitor local alerts, ensure drainage, and avoid extended leaf wetness.",
+    actions: "Seek local advice promptly because this disease can spread quickly.",
+  },
+  {
+    id: "Tomato_Early_blight",
+    crop: "Tomato",
+    name: "Early blight",
+    symptoms: "Small dark leaf spots may develop concentric rings, often beginning on older leaves.",
+    prevention: "Rotate crops, mulch against soil splash, water near the soil, and remove crop debris.",
+    actions: "Prune affected lower leaves with clean tools and monitor nearby plants.",
+  },
+  {
+    id: "Tomato_Late_blight",
+    crop: "Tomato",
+    name: "Late blight",
+    symptoms: "Irregular water-soaked or greasy gray-green patches may enlarge rapidly in humid weather.",
+    prevention: "Use healthy transplants, improve airflow, avoid overhead watering, and scout often.",
+    actions: "Contact a local crop expert quickly if the symptoms fit; confirm before treatment.",
+  },
+  {
+    id: "Tomato_Leaf_Mold",
+    crop: "Tomato",
+    name: "Leaf mold",
+    symptoms: "Pale yellow patches on upper surfaces may have olive or gray mold beneath leaves.",
+    prevention:
+      "Improve ventilation, avoid wetting foliage, sanitize tools, and use resistant varieties where suitable.",
+    actions: "Check the lower leaf surface and reduce prolonged humidity around plants.",
+  },
+];

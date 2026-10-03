@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+  <head>
+    <script>try{const t=localStorage.getItem('theme'),l=localStorage.getItem('language');document.documentElement.dataset.theme=t==='dark'?'dark':'light';document.documentElement.lang=['en','hi','ne'].includes(l)?l:'en'}catch{document.documentElement.dataset.theme='light';document.documentElement.lang='en'}</script>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#1B4332" />
+    <meta
+      name="description"
+      content="A careful, farmer-first crop health scan. Identify leaf disease and get practical next steps."
+    />
+    <title>Fieldnote — Crop health, clearly</title>
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <link rel="stylesheet" href="/assets/vendor/fonts/noto-devanagari.css" />
+    <link rel="stylesheet" href="/assets/vendor/leaflet/leaflet.css" />
+    <link rel="stylesheet" href="/css/tokens.css" />
+    <link rel="stylesheet" href="/css/app.css" />
+    <link rel="stylesheet" href="/css/leaf-explode.css" />
+    <script type="module" src="/js/main.js"></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to content</a>
+    <div id="offline-banner" class="offline-banner" role="status" hidden>
+      You’re offline. Your saved scans are still available.
+    </div>
+    <header class="site-header">
+      <a class="brand" href="#/" aria-label="Fieldnote home">
+        <span class="brand-mark" aria-hidden="true"
+          ><svg viewBox="0 0 40 40">
+            <path
+              d="M31.5 7.5C20 7.8 10.1 11.2 8 20.3c-1.4 6.1 3.2 10.2 8.5 8.2C25.1 25.4 29.2 16 31.5 7.5Z"
+            />
+            <path d="M7.5 33c4.2-8.2 10.2-13 19.3-18.3" /></svg
+        ></span>
+        <span class="brand-name">fieldnote<span class="brand-period">.</span></span>
+      </a>
+      <nav class="desktop-nav" aria-label="Main navigation">
+        <a href="#/scan" data-nav="scan">Scan</a>
+        <a href="#/outbreak-map" data-nav="outbreak-map">Outbreak map</a>
+        <a href="#/treatment" data-nav="treatment">Treatment</a>
+        <a href="#/my-scans" data-nav="my-scans">My scans</a>
+        <a href="#/plant-guide" data-nav="plant-guide">Plant guide</a>
+        <a href="#/safety" data-nav="safety">Safety</a>
+      </nav>
+      <div class="header-actions">
+        <div class="language-menu"><button class="icon-button language-toggle" type="button" aria-label="Choose language" aria-haspopup="menu" aria-expanded="false">◎ <span>EN</span></button><div class="language-options" role="menu" hidden><button role="menuitem" data-language="en">English</button><button role="menuitem" data-language="hi">हिन्दी</button><button role="menuitem" data-language="ne">नेपाली</button></div></div>
+        <button
+          class="icon-button theme-toggle"
+          type="button"
+          aria-label="Toggle color theme"
+          title="Toggle theme"
+        ></button>
+        <a class="avatar-link" href="#/settings" aria-label="Settings">S</a>
+      </div>
+    </header>
+    <main id="main-content" class="app-main" tabindex="-1"></main>
+    <footer class="site-credit">Leaf photos: PlantVillage dataset ? <a href="https://arxiv.org/abs/1511.08060" target="_blank" rel="noreferrer">Original dataset paper</a></footer>
+    <nav class="mobile-nav" aria-label="Quick navigation">
+      <a href="#/" data-nav="home"><span class="nav-icon" data-icon="home"></span><span>Home</span></a>
+      <a href="#/scan" data-nav="scan"><span class="nav-icon" data-icon="scan"></span><span>Scan</span></a>
+      <a href="#/outbreak-map" data-nav="outbreak-map"><span class="nav-icon" data-icon="map"></span><span>Map</span></a>
+      <a href="#/treatment" data-nav="treatment"
+        ><span class="nav-icon" data-icon="treatment"></span><span>Treat</span></a
+      >
+      <a href="#/my-scans" data-nav="my-scans"
+        ><span class="nav-icon" data-icon="history"></span><span>History</span></a
+      >
+    </nav>
+    <div id="toast-region" class="toast-region" aria-live="polite" aria-atomic="true"></div>
+    <noscript>This crop health app needs JavaScript enabled to scan leaves.</noscript>
+  </body>
+</html>

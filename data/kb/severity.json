@@ -1,0 +1,12 @@
+{
+  "default": {
+    "mild_max": 5,
+    "moderate_max": 25
+  },
+  "healthy_conflict_threshold": 10,
+  "crops": {
+    "maize": {"mild_max": 5, "moderate_max": 25},
+    "potato": {"mild_max": 5, "moderate_max": 25},
+    "tomato": {"mild_max": 5, "moderate_max": 25}
+  }
+}
